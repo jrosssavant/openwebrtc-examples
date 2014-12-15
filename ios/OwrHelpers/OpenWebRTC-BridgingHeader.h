@@ -27,4 +27,8 @@
 //  OF SUCH DAMAGE.
 //
 
+#import "owr.h"
 #import "owr_bridge.h"
+#import "owr_video_renderer.h"
+#import "owr_window_registry.h"
+
